@@ -1,0 +1,2 @@
+curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--triplet-stop.sh >triplet-stop.sh
+./triplet-stop.sh 123taataa456taataa456789123456
