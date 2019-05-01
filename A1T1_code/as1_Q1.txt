@@ -1,0 +1,3 @@
+
+sed "s/Huck/HucK/g" twain.txt
+sed -n "s/^Huck/HucK/p" twain.txt
